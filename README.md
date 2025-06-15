@@ -21,6 +21,4 @@ To create a decentralized and trustless solution for event organizers to verify 
 - Integration with online registration tools
 
 ## 5. Contract Address
-
-_Replace with actual deployed address_
-Example: `ST2C20XGZBAYFZ1NYNHT1J6MGMM0EW9X7PFZZEXA6.networking-event-check-in`
+`ST2C20XGZBAYFZ1NYNHT1J6MGMM0EW9X7PFZZEXA6.networking-event-check-in`
