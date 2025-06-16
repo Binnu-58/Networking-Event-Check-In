@@ -21,4 +21,5 @@ To create a decentralized and trustless solution for event organizers to verify 
 - Integration with online registration tools
 
 ## 5. Contract Address
-`ST2C20XGZBAYFZ1NYNHT1J6MGMM0EW9X7PFZZEXA6.networking-event-check-in`
+`STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.network-event-check-in`
+![image](https://github.com/user-attachments/assets/8e26580f-acbf-4a30-84e4-5eb116e33577)
